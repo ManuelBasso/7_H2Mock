@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/es7_H2Mock.iml" filepath="$PROJECT_DIR$/.idea/es7_H2Mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/h2-mock/h2-mock.iml" filepath="$PROJECT_DIR$/h2-mock/h2-mock.iml" />
+    </modules>
+  </component>
+</project>
